@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pre_work</string>
+    <string name="eniola_intro">Hello World! My name is Eniola. I love android development and golden retrievers!</string>
+    <string name="button_text">SAY HELLO</string>
+</resources>
